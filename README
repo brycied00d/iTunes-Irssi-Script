@@ -1,0 +1,6 @@
+This script is originally by Christopher R. Ungeheier <christopher@ungeheier.com>, however I've made a couple of tweaks and decided to upload my own copy.
+This script is amazing, I love what it can do and I use it frequently. I can control iTunes, select/load playlists, songs, etc, send my "currently playing", and others can request that too.
+For more help and information, consult "/itunes help".
+
+The original script is hosted at http://irssi.ungeheier.com/. If you like it, please consider donating to Mr. Ungeheier.
+The script uses Mac OS X "osascript" and Applescript facilities to communicate and manipulate iTunes. As such, this script will only work on a Mac OS X running irssi locally. I personally use MacIrssi (http://www.sysctl.co.uk/) and I'm very happy - Growl notifications, sound, a verticle "nicks" window, etc.

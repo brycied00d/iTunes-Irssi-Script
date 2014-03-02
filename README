@@ -3,4 +3,6 @@ This script is amazing, I love what it can do and I use it frequently. I can con
 For more help and information, consult "/itunes help".
 
 The original script is hosted at http://irssi.ungeheier.com/. If you like it, please consider donating to Mr. Ungeheier.
-The script uses Mac OS X "osascript" and Applescript facilities to communicate and manipulate iTunes. As such, this script will only work on a Mac OS X running irssi locally. I personally use MacIrssi (http://www.sysctl.co.uk/) and I'm very happy - Growl notifications, sound, a verticle "nicks" window, etc.
+The script uses Mac OS X "osascript" and Applescript facilities to communicate and manipulate iTunes. As such, this script will only work on a Mac OS X running irssi locally. I personally use MacIrssi (http://www.sysctl.co.uk/) and I'm very happy - Growl notifications, sound, a vertical "nicks" window, etc.
+
+NB I no longer use or maintain this script. If it's broken, feel free to patch and send me a pullreq.
